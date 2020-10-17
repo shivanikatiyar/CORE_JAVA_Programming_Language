@@ -8,7 +8,7 @@ for(int i=0;i<a.length;i++)
 if(a[i]>=5)
 {
 System.out.println("exit..."); //Terminate JVM 
-System.exit(0);                //Use System.exit(0)---->Terminate Successfully
+System.exit(0);                //Use System.exit(0)--->Terminate Successfully(no error)
 }
 else
 System.out.println("a["+i+"]="+a[i]);
