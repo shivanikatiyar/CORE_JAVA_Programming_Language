@@ -21,7 +21,6 @@ break;
 case 1:
 System.out.println("The number is:"+t.ODD);
 break;
-default:
 }
 }
 }
