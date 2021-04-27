@@ -37,7 +37,6 @@ public class MatchingMatrixEle{
                 int d=0;
                 for(int i=0;i<2;i++)
                 {
-        
                 for(int j=0;j<2;j++)
                 {
                   if(a[i][j]==b[i][j]) 
@@ -48,7 +47,7 @@ public class MatchingMatrixEle{
                
                 }}
                 for(int i=0;i<d;i++)
-                      System.out.print(c[i]+"\t");
+                System.out.print(c[i]+"\t");
                 
             }
 }
